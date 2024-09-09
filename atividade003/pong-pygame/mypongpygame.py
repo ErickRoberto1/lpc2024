@@ -1,5 +1,7 @@
 # Jucimar Jr
 # 2024
+# Nome: Erick Roberto Pinheiro Silva
+# Matrícula: 2415310051
 
 import pygame
 
